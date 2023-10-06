@@ -1,2 +1,12 @@
 # Emerging_Technology
-# David Amankwah
+
+*by David Amankwah*
+
+## What 
+
+This repository contains ...
+
+## How to Run
+
+1. Install qiskit
+2. Download Anaconda or some Python Distribution
