@@ -2,7 +2,7 @@
 
 *by David Amankwah*
 
-## What 
+## The exploration of Deutsch's algorithm
 
 This repository contains ...
 
