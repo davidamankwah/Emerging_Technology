@@ -22,21 +22,20 @@ Prior to proceeding, install the necessary prerequisites on your system.
 
 ## How to Run
 
-put better code format for code commands
-<h2> Install Visual Studio Code </h2>
+<h3> Install Visual Studio Code </h3>
 1. Visit Visual Studio Code's website and select a installer for your operating system to download.
 
 2. When download is done, download the installer and follow the steps to complete installation.
 
 3. When installtion is done, search for Visual Studio Code in your start menu to open.
 
-4. Check if installation is done correctly. Open your command prompt and type the following command
+4. Check if installation is done correctly. Open your command prompt and type the following command:
 
 ```bash
 code --version
 ```
 
-# Install Python
+<h3> Install Python </h3>
 1. Visit Python's website and select a installer for your operating system to download.
 
 2. When download is done, download the installer and follow the steps to complete installation. Make sure to add Python to your system's PATH environment variable.
@@ -52,7 +51,7 @@ code --version
  python -m pip install --upgrade pip.
 ```
 
-# Download Anaconda
+<h3> Download Anaconda </h3>
 1. Visit Anaconda's website and select a installer for your operating system and Python version.
 
 2. Download the installer and run it.
@@ -62,7 +61,7 @@ code --version
 4. Check the installation by opening a command prompt and typing conda --version.
 
 
-# Install Jupyter Notebook
+<h3> Install Jupyter Notebook </h3>
 Make sure to install Anaconda for this section.
 
 1. Open a command prompt, and use the following command:
@@ -81,7 +80,7 @@ This will start the Juptyer Notebook and open up a web browser.
 
 
 
-# Install qiskit
+<h3> Install qiskit </h3>
 Make sure qiskit is installed for quantumn computing framework. This will be needed for the implementation of the quantum circuit in Python: 
 
 1. Open a terminal or command prompt, and use this command:
