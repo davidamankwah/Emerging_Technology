@@ -66,9 +66,11 @@ Make sure to install Anaconda for this section.
 
 1. Open a command prompt, and use the following command:
 
+```bash
  pip install jupyter
+```
 
- this will Jupyter Notebook and its dependencies.
+this will Jupyter Notebook and its dependencies.
 
 2. When installation is finished, open a command prompt, and use the following command:
 
