@@ -23,24 +23,34 @@ Prior to proceeding, install the necessary prerequisites on your system.
 ## How to Run
 
 put better code format for code commands
-# Install Visual Studio Code
+<h2> Install Visual Studio Code </h2>
 1. Visit Visual Studio Code's website and select a installer for your operating system to download.
 
 2. When download is done, download the installer and follow the steps to complete installation.
 
 3. When installtion is done, search for Visual Studio Code in your start menu to open.
 
-4. Check if installation is done correctly. Open your command prompt and type code --version
+4. Check if installation is done correctly. Open your command prompt and type the following command
 
+```bash
+code --version
+```
 
 # Install Python
 1. Visit Python's website and select a installer for your operating system to download.
 
 2. When download is done, download the installer and follow the steps to complete installation. Make sure to add Python to your system's PATH environment variable.
 
-3. Check the installation by opening a command prompt and typing  python --version.
+3. Check the installation by opening a command prompt and type the following command:
+```bash
+ python --version.
+```
 
-4. Make sure to install pip. Open your command prompt and type python -m pip install --upgrade pip.
+4. Make sure to install pip. Open your command prompt and type the following command:
+
+```bash
+ python -m pip install --upgrade pip.
+```
 
 # Download Anaconda
 1. Visit Anaconda's website and select a installer for your operating system and Python version.
@@ -63,7 +73,9 @@ Make sure to install Anaconda for this section.
 
 2. When installation is finished, open a command prompt, and use the following command:
 
+```bash
 jupyter notebook
+```
 
 This will start the Juptyer Notebook and open up a web browser.
 
@@ -76,12 +88,14 @@ Make sure qiskit is installed for quantumn computing framework. This will be nee
 
 ```bash
 pip install qiskit
-
+```
 
 ## Clone the Repository
 Open a terminal window, and navigate to the directory where you want to clone the repository.
 
 Here is the following command: 
 
+```bash
 git clone https://github.com/davidamankwah/emerging_technology.git
 cd emerging_technology
+```
