@@ -22,6 +22,7 @@ Prior to proceeding, install the necessary prerequisites on your system.
 
 ## How to Run
 
+put better code format for code commands
 # Install Visual Studio Code
 1. Visit Visual Studio Code's website and select a installer for your operating system to download.
 
@@ -69,10 +70,11 @@ This will start the Juptyer Notebook and open up a web browser.
 
 
 # Install qiskit
-Make sure qiskit is installed for quantumn computing framework. This will be need for the implementating the quantum circuit in Python: 
+Make sure qiskit is installed for quantumn computing framework. This will be needed for the implementation of the quantum circuit in Python: 
 
 1. Open a terminal or command prompt, and use this command:
 
+```bash
 pip install qiskit
 
 
