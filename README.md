@@ -2,6 +2,8 @@
 
 *by David Amankwah*
 
+My Emerging Technology module from Software Development Year 4 semester 1 is available on this github page. This repository's objective is to showcase the learning objectives for the Emerging Technology module.
+
 ## The exploration of Deutsch's algorithm
 
 This repository contains an exploration of Deutsch's algorithm, a quantum algorithm that displays the power of quantum computing. One of the two notebooks in the repository examines the capabilities and applications of the Deutsch algorithm. The primary topic of discussion in the project notebook is the Deatuch Algorithm.
@@ -58,11 +60,14 @@ code --version
 
 3. Follow the steps to finish installing.
 
-4. Check the installation by opening a command prompt and typing conda --version.
+4. Check the installation by opening a command prompt and  type the following command:
 
+```bash
+conda --version
+```
 
 <h3> Install Jupyter Notebook </h3>
-Make sure to install Anaconda for this section.
+Make sure to that Anaconda is installed for this section.
 
 1. Open a command prompt, and use the following command:
 
@@ -70,7 +75,7 @@ Make sure to install Anaconda for this section.
  pip install jupyter
 ```
 
-this will Jupyter Notebook and its dependencies.
+ this will Jupyter Notebook and its dependencies.
 
 2. When installation is finished, open a command prompt, and use the following command:
 
